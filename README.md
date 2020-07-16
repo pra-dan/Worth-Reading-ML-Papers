@@ -3,8 +3,8 @@
 Topic | Tags | Link
 --|--|--
 Xception: Depth Wise Convolution | faster-Inference, operation-reduction, Inception | [arxiv](https://arxiv.org/pdf/1610.02357.pdf)
-Quantisation | model-compression, AlexNet, ImageNet | 
-Model Pruning | model-compression, AlexNet, GoogleNet |
+Quantisation | model-compression, AlexNet, ImageNet | [github](https://github.com/pra-dan/Worth-Reading-ML-Papers/blob/master/some-of-the-papers/6learning-both-weights-and-connections-for-efficient-neural-networks)
+Model Pruning | model-compression, AlexNet, GoogleNet | [github](https://github.com/pra-dan/Worth-Reading-ML-Papers/blob/master/some-of-the-papers/7designing-energy-efficient-convolutional-neural-networks-using-energy-aware-pruning)
 Hashing Trick Compressing | model-compression, weight-sharing, HashedNets | [github](https://github.com/pra-dan/Worth-Reading-ML-Papers/blob/master/some-of-the-papers/8compressing-neural-networks-with-the-hashing-trick.pdf)
 K-Means, Huffman Compressing | model-compression, weight-sharing, k-means, deep-compression | [github](https://github.com/pra-dan/Worth-Reading-ML-Papers/blob/master/some-of-the-papers/9deep-compression-compressing-deep-neural-networks-with-pruning-trained-quantization-and-huffman-coding.pdf)
 Distilling the Knowledge in a Neural Network | knowledge-distillation | [arxiv](https://arxiv.org/pdf/1503.02531.pdf) 
